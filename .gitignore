@@ -1,0 +1,22 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env/
+.env.*
+pip-log.txt
+pip-delete-this-directory.txt
+
+# important files
+*.key
+*.pem
+secrets.yml
+config/credentials.yml.enc
+
+.vscode/
+*.log

@@ -1,0 +1,23 @@
+＜デジタル時計風フォントのインストール＞
+
+kesikanさんのページからダウンロードして、Macにインストール
+
+https://www.keshikan.net/fonts.html
+
+
+＜check_idle_loop.sh＞
+
+1. ご自身の環境に合わせてPythonの実行環境を変更
+
+2. ご自身の環境に合わせてパスを変更
+
+
+＜（実行例）BTTFフォルダをDesktopに保存した場合＞
+
+cd Desktop/Time-circuit-screensaver
+
+/bin/bash /Users/nkhyk664/Desktop/Time-circuit-screensaver/check_idle_loop.sh
+
+Usernameは、ご自身のものに書き換えて実行。
+
+1分後にスクリーンセーバー起動！
